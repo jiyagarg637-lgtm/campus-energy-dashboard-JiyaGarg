@@ -81,3 +81,4 @@ The generated dashboard and reports help facility managers identify:
 - Opportunities for targeted energy-saving interventions
 
 ---
+"C:\Users\Karan Chandna\OneDrive\Pictures\Screenshots\Screenshot 2025-12-04 225006.png"
