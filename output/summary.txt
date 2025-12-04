@@ -1,0 +1,4 @@
+ENERGY USAGE SUMMARY REPORT
+-----------------------------------
+Total Campus Consumption: 1462 kWh
+Highest Consuming Building: building_b
