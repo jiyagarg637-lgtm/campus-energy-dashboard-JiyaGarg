@@ -68,7 +68,7 @@ CSV files in `/data/` should have at least these columns:
 
 - `timestamp` (e.g., 2025-01-01 00:00)
 - `kwh` (electricity consumed)
-- Optional: `building` name; if missing, inferred from filename
+- Optional: `building` name;
 
 ---
 
